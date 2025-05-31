@@ -1,4 +1,4 @@
-# 🚗 Indian Number Plate Recognition System
+# 🚗 Number Plate Recognition System
 
 ## 🎯 Project Overview
 This project implements a robust **Indian Number Plate Recognition System** leveraging **YOLOv5** for number plate detection and **EasyOCR** for text recognition.
