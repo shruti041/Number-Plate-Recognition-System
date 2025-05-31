@@ -1,0 +1,5 @@
+train: C:/Users/INSPIRON/Desktop/AI&ML project/Number Plate Recognition System/dataset/images/train
+val: C:/Users/INSPIRON/Desktop/AI&ML project/Number Plate Recognition System/dataset/images/val
+
+nc: 1
+names: ['number_plate']
