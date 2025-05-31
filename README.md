@@ -42,3 +42,11 @@ This project implements a robust **Indian Number Plate Recognition System** leve
 - Runs locally
 
 ---
+## 🔄 Typical Workflow
+
+```mermaid
+graph LR
+    A[Input Acquisition] --> B[Detection with YOLOv5]
+    B --> C[Cropping Plate Regions]
+    C --> D[OCR Recognition]
+    D --> E[Output: Display or Store Results]
