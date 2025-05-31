@@ -50,3 +50,9 @@ graph LR
     B --> C[Cropping Plate Regions]
     C --> D[OCR Recognition]
     D --> E[Output: Display or Store Results]
+
+---
+## ⚠️ Troubleshooting
+
+✅ **1. Downgrade Python to 3.10 or 3.9**  
+YOLOv5 and some PyTorch modules have the best compatibility with Python 3.9 or 3.10. Using newer versions may cause unexpected issues.
