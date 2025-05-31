@@ -1,0 +1,7 @@
+torch
+opencv-python
+matplotlib
+easyocr
+Pillow
+tqdm
+xmltodict
