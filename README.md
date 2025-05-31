@@ -5,9 +5,9 @@ This project implements a robust Indian Number Plate Recognition System leveragi
 1️⃣ **Dataset Preparation** <br>
 - **Dataset:** [Indian Number Plates Dataset] (https://www.kaggle.com/datasets/dataclusterlabs/indian-number-plates-dataset/code)
 - **Annotations:** Converted from PASCAL VOC XML ➡️ YOLO TXT format (only number_plate class)
-- **Normalization:** Bounding boxes normalized relative to image size<br>
+- **Normalization:** Bounding boxes normalized relative to image size
 <br>
-2️⃣ **Data Organization & Splitting**
+2️⃣ **Data Organization & Splitting**<br>
 - Splits dataset into:
   - 🟩 **80% Training**
   - 🟦 **20% Validation**
